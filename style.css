@@ -1,0 +1,20 @@
+/*style="table-layout: fixed; margin: auto; border: 1px solid black; border-collapse: collapse"*/
+tr {
+    border: 1px solid black;
+}
+td {
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+    margin: auto;
+    table-layout: fixed;
+    width: 800px;
+    height: 200px;
+    border: 1px solid black;
+}
+p {
+    text-align: center;
+    font-family: Russo One;
+    font-size: medium;
+}
